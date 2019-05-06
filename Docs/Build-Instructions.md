@@ -1,5 +1,9 @@
 ![Image](./images/BR-v1-Image.png?raw=true)
 
+### Build video:
+The steps in this manual match up with this video:  
+https://www.youtube.com/watch?v=sfIAuq82kME&list=PLotvT33qzzfLR7SWEICwr2An6o4muybxc
+
 ### Build instructions:
 
 ## Part 1: Build the frame

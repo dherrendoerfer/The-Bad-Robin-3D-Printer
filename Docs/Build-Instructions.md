@@ -1,4 +1,4 @@
-![Image](../../3D-Robins-Images/BR-v1-Image.png?raw=true)
+![Image](./images/BR-v1-Image.png?raw=true)
 
 ### Build instructions:
 

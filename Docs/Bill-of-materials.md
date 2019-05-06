@@ -1,4 +1,4 @@
-![Image](../../3D-Robins-Images/BR-v1-Image.png?raw=true)
+![Image](./images/BR-v1-Image.png?raw=true)
 
 ### All files and information provided here is licensed under the GNU PUBLIC LICENSE 
 Make sure you understand the license requirements and implications before moving on.
@@ -15,7 +15,11 @@ The Z-Axis can be held in place by a 3D-printed part and a ball-bearing ball, or
 - You need T-Nuts with M3, M5, and M6 screws in various sizes and lengths.
 - You need a drill-press to drill two holes
 
-You need to source:
+Please also consult the file:
+https://github.com/dherrendoerfer/The-Bad-Robin-3D-Printer/blob/master/Docs/Shopping-list.md 
+for hints on what to get.
+
+#### You need to source:
 - 3x MGN12H linear rails with 250mm length 
 - 1x ITEM 40mm aluminium profile 400mm long
 - 1x ITEM 40mm aluminium profile 300mm long

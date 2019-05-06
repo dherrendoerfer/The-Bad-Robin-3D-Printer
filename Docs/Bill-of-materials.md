@@ -3,9 +3,6 @@
 ### All files and information provided here is licensed under the GNU PUBLIC LICENSE 
 Make sure you understand the license requirements and implications before moving on.
 
-## IMPORTANT NOTE: This is a work in progress
-Things are likely to change anytime without prior notice !!!!
-
 ### Design decision:
 The Z-Axis can be held in place by a 3D-printed part and a ball-bearing ball, or a different 3D-printed part and a bearing. For this mounting method the threaded rod needs to be machined to fit the bearing. (Items that this influences are marked with *)
 

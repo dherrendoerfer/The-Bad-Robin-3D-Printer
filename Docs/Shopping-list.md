@@ -34,8 +34,7 @@ https://www.ebay.de/itm/Nutensteine-schwer-fur-40er-45er-Aluprofile-Stahl-Nut-8-
 
 - Linear Rail:
 
-https://www.banggood.com/MGN12H-250300500550mm-Linear-Rail-Guide-Linear-Sliding-Guide-Block-CNC-Tool-p-1156260.html?utm_design=41&utm_source=emarsys&utm_medium=Shipoutinform171129&utm_campaign=trigger-emarsys&utm_content=Winna&sc_src=email_2671705&sc_eh=1491b86c3002c0ed1&sc_llid=3965650&sc_lid=104858042&sc_uid=tjpzxLM6CN
-
+https://www.amazon.de/gp/product/B07LDBNVTW  
 
 - Proximity Switch:
 

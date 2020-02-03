@@ -1,4 +1,4 @@
-##Shopping list (Date: Apr. 2019):
+##Shopping list (Date: Feb. 2020):
 
 - ITEM Profile:
 

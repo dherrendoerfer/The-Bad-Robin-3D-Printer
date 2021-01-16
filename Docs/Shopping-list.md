@@ -58,6 +58,8 @@ https://www.ebay.de/itm/Longs-Motor-stepping-motor-17HS4401N-nema17-57oz-for-3D-
 
 - RAMPS Kit:
 
+http://bit.ly/3rPzlYX
+or (if available):
 https://www.amazon.de/Controller-Schrittmotor-Treiber-Heatsink-Grafik-Smart-Display-Controller-3D-Drucker/dp/B01NCZ09Q5/ref=pd_sbs_147_49
 
 - Belt & Pulley
